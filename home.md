@@ -2,7 +2,7 @@
 title: ThingWiki
 description: Universal Registry of Things
 published: true
-date: 2021-10-18T11:26:46.144Z
+date: 2021-10-18T12:41:04.139Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-18T09:48:03.081Z
@@ -16,8 +16,9 @@ This website is a prototype of the design concept called Universal Registry of T
 
 More information about ThingWiki and the Universal Registry of Things can be found on Felipe's [research wiki](https://wiki.reuse.city).
 
+The data in this website is automatically synchronised with [this public repository on GitHub](https://github.com/reuse-city/thingwiki).
+
 ## Structure
 
 - [Template](template.md).
 - Sample [Things](things.md).
-- [Benchmarking](benchmarking.md).
