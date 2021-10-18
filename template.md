@@ -1,0 +1,48 @@
+---
+title: Template
+description: Format to store data on ThingWiki
+published: true
+date: 2021-10-18T11:15:51.740Z
+tags: 
+editor: markdown
+dateCreated: 2021-10-18T10:00:19.025Z
+---
+
+# Template
+
+## Current format
+
+```
+# 0001: Title
+
+![insert an image]()
+
+## Basic data
+
+### Name
+
+
+### Description
+
+### Manufacturer
+
+### Manufacturer website
+
+### Color
+
+### Identifiers
+
+### More information
+
+### Images
+
+## Stories
+
+### Author
+
+
+```
+
+## Earlier versions
+
+An earlier draft structure for the Universal Registry of Things can be found on [this airtable](https://airtable.com/tbl1sdsu6UAclZNrf/viwOYg60eyQ1i98F2?blocks=hide)
