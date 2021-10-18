@@ -2,7 +2,7 @@
 title: Template
 description: Format to store data on ThingWiki
 published: true
-date: 2021-10-18T11:15:51.740Z
+date: 2021-10-18T12:01:17.279Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-18T10:00:19.025Z
@@ -14,8 +14,6 @@ dateCreated: 2021-10-18T10:00:19.025Z
 
 ```
 # 0001: Title
-
-![insert an image]()
 
 ## Basic data
 
